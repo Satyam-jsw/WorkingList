@@ -1,4 +1,4 @@
-# iLogs - Notes Taking App
+# WorkingNotes - Notes Taking App
 
 ## Take notes easily on the web
 
@@ -9,4 +9,4 @@
 
 
 
-<h3 align="center">&copy; 2021 Muhammad Sameem</h3>
+<h3 align="center">&copy; 2022 Satyam Jaiswal</h3>
